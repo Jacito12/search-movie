@@ -72,7 +72,7 @@ const DesktopMenu = () => (
     <a href="#" className="hover:underline underline-offset-8">
       Home
     </a>
-    <a href="#" className="hover:underline underline-offset-8">
+    <a href={"/favorites"} className="hover:underline underline-offset-8">
       Favorites
     </a>
     <a href="#" className="hover:underline underline-offset-8">
